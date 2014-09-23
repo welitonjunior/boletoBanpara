@@ -18,28 +18,13 @@
 // | Weliton Vieira Júnior <welitonjunior@inbox.com | @tonjunior>         |
 // +----------------------------------------------------------------------+
 ?>
-
-<!DOCTYPE HTML PUBLIC '-//W3C//Dtd HTML 4.0 Transitional//EN'>
+<!DOCTYPE html>
 <HTML>
     <HEAD>
         <title><?php echo $dadosboleto["identificacao"]; ?></title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="Content-Language" content="pt-br"/>
         <link href="css/styles.css" rel="stylesheet"/>
-
-        <style type=text/css>
-            <!--
-            .cp {  font: bold 10px Arial; color: black}
-            .ti {  font: 9px Arial, Helvetica, sans-serif}
-            .ld { font: bold 15px Arial; color: #000000}
-            .ct { FONT: 9px "Arial Narrow"; COLOR: #000033}
-            .cn { FONT: 9px Arial; COLOR: black }
-            .bc { font: bold 20px Arial; color: #000000 }
-            .ld2 { font: bold 12px Arial; color: #000000 }
-
-            .linha-digitavel { font: bold 14px Arial; text-align: right; width: 406px; }
-        </style>
-
     </head>
 
     <body text=#000000 bgColor=#ffffff topMargin=0 rightMargin=0>
